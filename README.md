@@ -12,4 +12,4 @@ This repository contains implementations for enhancing image resolution (Super R
    git clone https://github.com/AldiPutra24/Super-Resolution.git
 
 ## References
-This project is inspired by the [https://www.tensorflow.org/hub/tutorials/image_enhancing](TensorFlow Hub Image Enhancing tutorial), which provides a comprehensive guide to improving image resolution using deep learning.
+This project is inspired by the [TensorFlow Hub Image Enhancing tutorial](https://www.tensorflow.org/hub/tutorials/image_enhancing), which provides a comprehensive guide to improving image resolution using deep learning.
